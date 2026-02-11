@@ -4,16 +4,14 @@ title: 'About'
 
 Python software developer building SaaS products. Open-source contributor and former GitHub Campus Expert. Independent software builder.
 
-I write blog posts at https://blog.imsadra.dev.
+I write at https://blog.imsadra.dev.
 
 > _No risk, no story._
-
----
 
 ## Projects
 
 - **[PyAction](https://github.com/lnxpy/pyaction)** — Create GitHub Actions using Python.
-- **[Sighted](https://sighted.vercel.app)** — Applies bionic AI techniques to improve reading speed and clarity for people with ADHD and Dyslexia.
+- **[Sighted](https://sighted.vercel.app)** — Applies bionic reading techniques to improve clarity and focus, especially for readers with ADHD or dyslexia.
 
 ## Experience
 
