@@ -3,18 +3,18 @@ import type { ThemeConfig } from './types'
 export const themeConfig: ThemeConfig = {
   // SITE INFO ///////////////////////////////////////////////////////////////////////////////////////////
   site: {
-    website: 'https://chiri.the3ash.com/', // Site domain
-    title: 'CHIRI', // Site title
-    author: '3ASH', // Author name
-    description: 'Minimal blog built by Astro', // Site description
+    website: 'https://imsadra.dev/', // Site domain
+    title: 'Sadra Yahyapour · Software Engineer', // Site title
+    author: 'Sadra', // Author name
+    description: 'Open Source Developer · Technical Writer · SaaS & Indie Hacking Enthusiast', // Site description
     language: 'en-US' // Default language
   },
 
   // GENERAL SETTINGS ////////////////////////////////////////////////////////////////////////////////////
   general: {
-    contentWidth: '35rem', // Content area width
+    contentWidth: '40rem', // Content area width
     centeredLayout: true, // Use centered layout (false for left-aligned)
-    themeToggle: false, // Show theme toggle button (uses system theme by default)
+    themeToggle: true, // Show theme toggle button (uses system theme by default)
     postListDottedDivider: false, // Show dotted divider in post list
     footer: true, // Show footer
     fadeAnimation: true // Enable fade animations
@@ -29,7 +29,7 @@ export const themeConfig: ThemeConfig = {
 
   // POST SETTINGS ///////////////////////////////////////////////////////////////////////////////////////
   post: {
-    readingTime: false, // Show reading time in posts
+    readingTime: true, // Show reading time in posts
     toc: true, // Show table of contents (when there is enough page width)
     imageViewer: true, // Enable image viewer
     copyCode: true, // Enable copy button in code blocks

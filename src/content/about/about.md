@@ -2,15 +2,27 @@
 title: 'About'
 ---
 
-<!--
-This content will be displayed at the top of the index page.
-You can leave this empty if you don’t want to show any content.
--->
+Python software developer building SaaS products. Open-source contributor and former GitHub Campus Expert. Independent software builder.
 
-A static blog theme based on [Astro](https://astro.build), designed for clarity and focus.
+I write blog posts at https://blog.imsadra.dev.
 
-With a deliberately minimal design, this layout ensures your content takes center stage. It's built for flexibility, offering customization options that honor its clean and elegant aesthetic.
+> _No risk, no story._
 
-Effortlessly share your thoughts in _a calm & dustless space._
+---
 
-Check posts for details and view source on [GitHub](https://github.com/the3ash/astro-chiri).
+## Projects
+
+- **[PyAction](https://github.com/lnxpy/pyaction)** — Create GitHub Actions using Python.
+- **[Sighted](https://sighted.vercel.app)** — Applies bionic AI techniques to improve reading speed and clarity for people with ADHD and Dyslexia.
+
+## Experience
+
+- **Open Source Maintainer**, [MindsDB](https://mindsdb.com) · 2024–2025
+- **Technical Writer**, [Turing](https://turing.com) · 2023–2024
+- **Python Backend Developer**, [Dopely](https://dopely.top) · 2022–2023
+
+## Contact
+
+- X — https://x.com/lnxpylnxpy
+- LinkedIn — https://www.linkedin.com/in/sadra-yahyapour/
+- Email — lnxpylnxpy@gmail.com
