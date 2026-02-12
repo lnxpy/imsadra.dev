@@ -2,9 +2,9 @@
 title: 'About'
 ---
 
-Python software developer building SaaS products. Open-source contributor and former GitHub Campus Expert. Independent software builder.
+_Python software developer building SaaS products. Open-source contributor and GitHub Campus Expert. Independent software builder._
 
-I write at https://blog.imsadra.dev.
+I write at [blog.imsadra.dev](https://blog.imsadra.dev/).
 
 > _No risk, no story._
 
