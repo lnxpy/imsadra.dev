@@ -2,15 +2,25 @@
 title: 'About'
 ---
 
-<!--
-This content will be displayed at the top of the index page.
-You can leave this empty if you don’t want to show any content.
--->
+_Python software developer focused on building SaaS products, developer tools, and open-source software. Former GitHub Campus Expert. Ex-MindsDB._
 
-A static blog theme based on [Astro](https://astro.build), _designed for clarity and focus_.
+I write about software, engineering, and things I learn and experience at [blog.imsadra.dev](https://blog.imsadra.dev).
 
-With a deliberately minimal design, this layout ensures your content takes center stage. It's built for flexibility, offering customization options that honor its clean and elegant aesthetic.
+## Projects
 
-Effortlessly share your thoughts in a calm & dustless space.
+- **[PyAction](https://github.com/lnxpy/pyaction)** — Create GitHub Actions using Python.
+- **[Sighted](https://sighted.vercel.app/)** — A bionic NLP approach for enhancing the reading quality.
 
-Check posts for details and view source on [GitHub](https://github.com/the3ash/astro-chiri).
+## Experience
+
+- **Founder** - Lucense · 2025-Now
+- **Open Source Maintainer** — MindsDB · 2024–2025
+- **Technical Writer** — Turing · 2023–2024
+- **Python Backend Developer** — Dopely · 2022–2023
+
+## Contact
+
+- **X** — [@lnxpylnxpy](https://x.com/lnxpylnxpy)
+- **GitHub** — [lnxpy](https://www.github.com/lnxpy)
+- **LinkedIn** — [Sadra Yahyapour](https://www.linkedin.com/in/sadra-yahyapour/)
+- **Email** — [lnxpylnxpy@gmail.com](mailto:lnxpylnxpy@gmail.com)
