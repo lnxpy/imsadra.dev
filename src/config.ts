@@ -3,7 +3,7 @@ import type { ThemeConfig } from './types'
 export const themeConfig: ThemeConfig = {
   // SITE INFO ///////////////////////////////////////////////////////////////////////////////////////////
   site: {
-    website: 'https://chiri.the3ash.com/', // Site domain
+    website: 'https://imsadra.dev/', // Site domain
     title: 'CHIRI', // Site title
     author: '3ASH', // Author name
     description: 'Minimal blog built by Astro', // Site description
