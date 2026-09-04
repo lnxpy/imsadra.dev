@@ -13,7 +13,7 @@ I write about software, engineering, and things I learn and experience at [blog.
 
 ## Experience
 
-- **Founder** - Lucense · 2025-Now
+- **Founder** - Leent · 2025-Now
 - **Open Source Maintainer** — MindsDB · 2024–2025
 - **Technical Writer** — Turing · 2023–2024
 - **Python Backend Developer** — Dopely · 2022–2023
